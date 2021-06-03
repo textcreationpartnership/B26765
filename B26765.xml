@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mendacimastix or, A whip for the colosan [sic] lyer, being a brief answer, to the relation of two invisible old men, reported to be seen in Tholouze in France: in a letter sent from a friend in London, to the French pseudographir [sic].</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26765</idno><idno type="EEBO-CITATION">99884813</idno>
+  <idno type="VID">201396</idno>
+  <idno type="EEBO-PROQUEST">2248523177</idno>
+  
+            <idno type="STC">Wing M1704</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1897.c.19[31]</idno>
+            <idno type="STC">ESTC R217788</idno>
+            <idno type="PROQUEST">ocm99884813</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884813e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201396)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:2[162-164a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mendacimastix or, A whip for the colosan [sic] lyer, being a brief answer, to the relation of two invisible old men, reported to be seen in Tholouze in France: in a letter sent from a friend in London, to the French pseudographir [sic].</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; publisher and date from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Satire, English --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:201396:1"/>
+            <head>MENDACIMASTIX OR, A WHIP FOR THE <hi>TOLOSAN LYER,</hi> Being A Brief ANSWER, TO THE RELATJON OF TWO <hi>INƲISIBLE Old Men.</hi> Reported to be seen in <hi>Tholouze</hi> in <hi>France:</hi> IN A LETTER Sent from a Friend in <hi>London,</hi> to the <hi>French</hi> PSEUDOGRAPHIR.</head>
+            <opener>
+               <salute>Lying SIR,</salute>
+            </opener>
+            <p>I Question not, but this will come safe to your Hands, by the Invisible Post, as well as yours came to mine, by the flying Packet from <hi>Tholouze,</hi> for it made devlish hast, being Dated from that City, being in <hi>Narbonne</hi> in the farthest part of <hi>France,</hi> the 18 of <hi>August</hi> 1680. and on the 17th it was Printed and Cryed
+<pb n="2" facs="tcp:201396:2"/> about the Streets, being the next day. Lyers ought to have good Memories, for in framing Lyes, there is required somthing more than h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dling Words together, and sweet S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, you have made yours so very Monstrous, that it hath not the sweet Face of a likely Lye, nor the pleasant one of a <hi>Rom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce,</hi> but looks like its own Father the Devil, the Author of Lyes, your Date at the first dash were enough to Convince any one, that is not of the Col<g ref="char:EOLhyphen"/>ledge of <hi>Bethlem,</hi> of the Monstrosity of the Fiction, and it would be but holding a Candle in a clear Sun-shiny Day, to use Words or Arguments to perswade an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; that your whole Full and Exact Relation, is a very Full and Exact Lye, However, since this is a Sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibling Age, and that perhaps I have as little to doe as you, when you Inven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed it, I shall make some few Remarques on your false Story. Had I been to have advised you, you should have laid the Scene of this Lye, at a greater Distance, either in <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rra Incogni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a,</hi> or <hi>Ʋtopia, Atlantis</hi> or some of those Regions▪ for <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>louze</hi> is a little too near, and the Fraud may be too soon di<g ref="char:EOLhyphen"/>scovered, perhaps before your next Packet comes▪ which you have promised from <hi>Rome,</hi> so that it seems you are a Retainer to these Invisible old <hi>Apostles,</hi> and keep '<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpany in their Jour<g ref="char:EOLhyphen"/>ney. <hi>Apostles!</hi> and why <hi>Apostles?</hi> My thinks you might bet<g ref="char:EOLhyphen"/>ter have thought on the Notion of the two Witnesses: <hi>Muggle<g ref="char:EOLhyphen"/>ton,</hi> and his cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sing Companion and fellow Shoo-maker I wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d have passed better with the Fifth Monarchy Men: but i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are <hi>Apostles</hi> you might have made them about six hu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dred years older, and then they might have been taken by the <hi>Romanists</hi> or St. <hi>James</hi> and St. <hi>John</hi> or some of Chris<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stles,</hi> that had got a a new Resurrection, or else had not been Martyred according to Tradition. Then they came from <hi>Damas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> a City in <hi>Gal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ile,</hi> I think you are not Skilled in <hi>Cosmography,</hi> for we never Heard or Read of such a City in <hi>Gallily,</hi> but in <hi>Syria▪</hi> the Seat now of a Turkish <hi>Bashaw.</hi> But 'tis no matter it seems whence they came, but most likely from <hi>Damascus</hi> in the <hi>Moon,</hi> or in <hi>Fary-L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd,</hi> for they dropt down Invisibly into <hi>Tholouse:</hi> For says, the Lear<g ref="char:EOLhyphen"/>ned <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amphlet: No person ever saw them to enter into the City:</hi> This is the first Truth in the Letter, and I believe it. It had me<g ref="char:EOLhyphen"/>thinks been worth your while to have described their Extraordi<g ref="char:EOLhyphen"/>nary habit, and you would have us suppose their Cloaths, are as
+<pb n="3" facs="tcp:201396:2"/> old as themselves, and that I am very apt to Believe too, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or no doubt they were created together out of the Nodle of the Wri<g ref="char:EOLhyphen"/>ter. Some Taylors, especially the French Taylors here in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld have been glad to have known this Extraordinary Fa<g ref="char:EOLhyphen"/>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on▪ and it might have made your Pamphlet <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell the better▪ but it seems your Fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded. But why in the Name of <hi>Belz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bub,</hi> dropt they first into <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>holovse?</hi> I never heard that City to have been a <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dom</hi> before, my thinks you might have better d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them into <hi>Rome,</hi> or in <hi>Geneva,</hi> in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> last if thou ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>Ro<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n▪</hi> in the first if a <hi>Fana<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick</hi> Lyer. But now I have found it out, you would give them a Journy over the <hi>Alps</hi> to <hi>Rome</hi> that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <hi>London</hi> may have a second Intertainment of their Adventures in that place▪ from you their Invisible S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cret<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y▪ observe also that they are very Learned Men, and can dispute in <hi>L<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Gi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brew,</hi> and <hi>Chalde▪</hi> and since the <hi>Jesu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes,</hi> cannot convert them, would mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of their ordinary way to Confound them with Imprisonment and Chains made of strong and heavy Iron, Spanish I on without doubt. But 'tis well for them they could so easi<g ref="char:EOLhyphen"/>ly break them▪ no doubt but they deserve to be made Saints▪ who were before <hi>Apostles.</hi> God bless us! tenn years and the World is at an end; I would fain know (if you have any Land) what you would take for the Reversion of it after 1690. But we have a Doomsday <hi>Sedgwick</hi> in our <hi>Lunatick</hi> times, and need not go to <hi>France</hi> to know times and Seasons. But 'tis well these invisi<g ref="char:EOLhyphen"/>ble <hi>Apostles</hi> are going to his Holiness, who wants much the Ad<g ref="char:EOLhyphen"/>vice of such Antient Saints, since he will not believe the Wri<g ref="char:EOLhyphen"/>tings of St. <hi>Paul,</hi> St. <hi>John.</hi> St. <hi>James</hi> and St. <hi>Peter;</hi> he may be instructed by these of the old and t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Institutions, and that he may make a thorow Reformation of all Superstition and false Doctrine, under which his Holiness Flock lies. I wonder that the French King did not lay hold on them, and set 'um up for Popes in <hi>Paris,</hi> now he has ordered his Cler<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to make no Ap<g ref="char:EOLhyphen"/>peal to <hi>Rome.</hi> But I cannot yet learn, what the Religion of these old I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>visible Men should be; by their eating <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>read and drinking Water, they should be no <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>byteri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by their preaching to the People to do Pennance, they should be <hi>Roman</hi>-Catholicks of the last Edition, or <hi>Scotch</hi> Master <hi>Johns</hi> But we have trifled with this ridiculous story too long, and shall now end with a loving advice: That the next Lye you frame to de<g ref="char:EOLhyphen"/>lude poor ignorant silly Women, Children and Melanccholly
+<pb n="4" facs="tcp:201396:3"/> Sots, and Religious Dreamers, may be done with more proba<g ref="char:EOLhyphen"/>bility, and that you get a more cunning <hi>Mephostophilus</hi> to help you, and that you meddle not with Religion, and put lie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and abuses upon Professions: or rather, since lying is a sinful though thriving Calling, that you employ the little Wit yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have some other way; for though no man or Woman that has common un<g ref="char:EOLhyphen"/>dcrstanding will believe you, yet there are many among the V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<g ref="char:EOLhyphen"/>gar, whose Wits are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Woolgathering, that think all true they see in print, and can swallow as great a lye as this, and perhaps have imagined as much in their Chymerical Fancies, therefore good lying Friend, if we hear no more of your two invisible <hi>Apo<g ref="char:EOLhyphen"/>stles,</hi> the people will believe very rationally, that they brok<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Necks going over the <hi>Alps</hi> to <hi>Rome,</hi> and that the Devil car<g ref="char:EOLhyphen"/>ried away their Secretary a Pick-Pack to Hell for his gross and foolish Lying.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>D. Mallet.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
